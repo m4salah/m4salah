@@ -1,4 +1,4 @@
-### Hello there, I'm Mo! 👋
+### Hello there, I'm Mohamed! 👋
 <img align='right' src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif" width="230">
 
 
