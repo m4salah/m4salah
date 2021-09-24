@@ -1,5 +1,5 @@
 ### Hello there, I'm Mohamed! 👋
-<img align='right' src="https://tenor.com/view/one-piece-luffy-gif-18954349" width="230">
+<img align='right' src="https://tenor.com/brG3t.gif" width="230">
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-a-salah/)
