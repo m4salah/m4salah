@@ -1,5 +1,5 @@
 ### Hello there, I'm Mohamed! 👋
-<img align='right' src="https://media.giphy.com/media/kuhBsk15WfPqw/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy-downsized-large.gif" width="230">
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-a-salah/)
