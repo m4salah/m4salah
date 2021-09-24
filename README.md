@@ -33,5 +33,3 @@ I love to code, looking to open source project and learn from it & open source m
 </a>
 <hr/>
 
-<img align='right' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="900">
-
