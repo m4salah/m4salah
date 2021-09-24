@@ -16,7 +16,7 @@ I love to code, looking to open source project and learn from it & open source m
 
 - 🔭 **Also, I’m working on**: Nothing.
 
-- 💬 **Ask me about**: OOP, Swift, iOS development, Backend,Python, Database, Design Patterns, Testing.
+- 💬 **Ask me about**: OOP, Swift, iOS development, Backend, Python, PHP, JavaScript, Database, Design Patterns, Testing.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
