@@ -14,7 +14,7 @@ I love to code, looking to open source project and learn from it & open source m
 
 
 
-- 🔭 **Also, I’m Lifetime learner **
+- 🔭 **Also, I’m Lifetime learner **:
 
 - 💬 **Ask me about**: OOP, Swift, iOS development, Backend, Python, PHP, JavaScript, Database, Design Patterns, Testing.
 
