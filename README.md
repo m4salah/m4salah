@@ -10,7 +10,7 @@
 ** best known for super-fast learner and technology explorer **
 
 
-I love to code, and I am looking to open source projects and learn from it & open source my code to the Word.
+I love to code, and I am looking to open source projects and learn from them & open source my code to the Word.
 
 
 
