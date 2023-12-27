@@ -5,12 +5,12 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-a-salah/)
 
 
-** I am just a guy who loves to talk to computers in different languages which computers understand. **  
+** I am just a guy who loves to talk to computers in different languages that computers understand. **  
 
 ** best known for super-fast learner and technology explorer **
 
 
-I love to code, and I am looking to open source projects and learn from it & open source my code to the word.
+I love to code, and I am looking to open source projects and learn from it & open source my code to the Word.
 
 
 
