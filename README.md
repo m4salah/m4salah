@@ -4,9 +4,9 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 
-** I am just a guy who loves to talk to computers in different languages that computers understand. **  
+**I am just a guy who loves to talk to computers in different languages that computers understand.**  
 
-** best known for super-fast learner and technology explorer **
+**best known for super-fast learner and technology explorer**
 
 
 I love to code, and I am looking to open source projects and learn from them & open source my code to the Word.
