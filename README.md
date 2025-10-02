@@ -4,7 +4,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 
-**I am just a guy who loves to talk to computers in different languages that computers understand.**  
+**I speak multiple programming languages to make computers do cool things.**  
 
 **best known for super-fast learner and technology explorer**
 
